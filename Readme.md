@@ -11,7 +11,6 @@ To run:
 - clone the repo
 - run `npm install`
 - run `npm start`
-- visit http://localhost:8080
+- visit https://egghead-react-fundamental-donnerc.c9users.io/
 - edit anything in the `render` method of `App.js` and see HMR at work.
 
-Pull requests welcome!
